@@ -1,0 +1,16 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+Problema 1 ==> 1_get_names.py
+Problema 2 ==> 2_raichu.py
+Problema 3 ==> 3_weight.py
+
+1.- se usó Python 3.10.4 y la libreria requests 2.27.1
+2.- se usó el módulo de Collections sin V integrado ya en python
+3.- se usó VSC como IDE
+
+En el problema 1 se utilizó el limite 151 pokemones.
+En el problema 2 se consideró que puede ser hembra o macho cualquier pokemons de acuerdo algunas fuentes.
+
+
+
